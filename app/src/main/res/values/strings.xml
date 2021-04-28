@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo My First App</string>
+    <string name="andriod_is_fun">Andriod is fun!</string>
+    <string name="welcome_to_programming">Welcome to programming!</string>
+    <string name="i_love_android">I love Android</string>
+    <string name="username">Username:</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="i_love_andriod">I love Andriod</string>
+</resources>
